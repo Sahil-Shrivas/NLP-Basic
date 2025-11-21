@@ -19,26 +19,6 @@ A beginner-friendly toolkit for exploring foundational Natural Language Processi
 
 ---
 
-## Repository Structure
-
-NLP-Basic/
-├── data/ # Sample text/data (if included)
-├── notebooks/ # Jupyter notebooks for tutorials
-│ ├── preprocessing.ipynb
-│ ├── tokenization.ipynb
-│ ├── vectorization.ipynb
-│ └── modeling.ipynb
-├── src/ # Core Python modules / scripts
-│ ├── preprocess.py
-│ ├── tokenize.py
-│ ├── vectorize.py
-│ └── train_model.py
-├── tests/ # Unit tests (if any)
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
----
-
 ## Getting Started
 
 ### Prerequisites
